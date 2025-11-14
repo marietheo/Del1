@@ -24,7 +24,7 @@ This project presents a complete statistical workflow for analyzing a health stu
 |----------|--------|----------------|
 | **Disease Prevalence** | ~10% | Approximately 1 in 10 individuals have the disease |
 | **Simulated Prevalence** | ≈10% | Monte Carlo simulation confirms observed rate |
-| **Mean Systolic BP** | ~145 mmHg | 95% CI: [143, 147] (both methods agree) |
+| **Mean Systolic BP** | ~149 mmHg | 95% CI: [148.3, 150.06] (both methods agree) |
 | **Smokers vs Non-smokers** | p < 0.05 | Smokers have significantly higher BP |
 | **Test Power** | ~0.85 | High power - test reliably detects true differences |
 
@@ -36,6 +36,7 @@ This project presents a complete statistical workflow for analyzing a health stu
 
 
 *Last updated: January 2025*
+
 
 
 
