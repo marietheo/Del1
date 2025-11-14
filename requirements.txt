@@ -1,0 +1,26 @@
+# Health Study Statistical Analysis - Python Dependencies
+# Generated: January 2025
+# Python version: 3.10+
+
+# Core data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical functions and hypothesis testing
+scipy>=1.10.0
+
+# Data visualization
+matplotlib>=3.7.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.20.0
+
+# Optional but recommended
+# Uncomment if you want enhanced functionality:
+
+# seaborn>=0.12.0           # Additional statistical plots
+# plotly>=5.14.0            # Interactive visualizations
+# statsmodels>=0.14.0       # Advanced statistical models
+# scikit-learn>=1.2.0       # Machine learning utilities
